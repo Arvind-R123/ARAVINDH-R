@@ -1,4 +1,4 @@
-<!-- Replace YOUR_USERNAME and YOUR_LINKEDIN_ID before committing -->
+<!-- Replace YOUR_LINKEDIN_ID with your LinkedIn id before committing -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Aravindh%20R&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20" alt="header" width="100%" />
@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Arvind-R123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="views" />
   <img src="https://img.shields.io/badge/Open%20to-Work-00e676?style=for-the-badge&logo=target&logoColor=white" alt="open to work" />
 </div>
 
@@ -26,7 +26,7 @@
   <a href="mailto:aravindhr135@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Arvind-R123" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -89,22 +89,22 @@ const aravindh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arvind-R123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arvind-R123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Arvind-R123&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arvind-R123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arvind-R123&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="activity graph" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -112,7 +112,7 @@ const aravindh = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Arvind-R123/Arvind-R123/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
