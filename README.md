@@ -97,16 +97,6 @@ const aravindh = {
   <img src="https://streak-stats.demolab.com?user=Arvind-R123&theme=tokyonight&hide_border=true&border_radius=10" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arvind-R123&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arvind-R123&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="activity graph" width="100%" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🐍 Contribution Snake
